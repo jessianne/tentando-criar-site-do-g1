@@ -119,6 +119,9 @@ main{
   font-weight: bold;
   padding-left: 25px;
 }
+#noticia1 a{
+  text-decoration: none;
+}
 
 #olaf{
   font-size: 16px;

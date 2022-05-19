@@ -211,10 +211,20 @@ h2{
   color: #A62C14;
 }
 
-img{
+picture > img{
   display: block;
   margin: auto;
 }
+picture figcaption{
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  line-height: 16px;
+  color: #55555A;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
 
 #estamos{
   font-size: 32px;
