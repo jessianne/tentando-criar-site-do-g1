@@ -105,7 +105,7 @@ main{
   float: left;
   border: 1px solid black;
   font-family: 'Open Sans';
-  width: 590px;
+  width: 585px;
   padding-top: 200px;  
   height: 380px;
   margin-top: 20px;
@@ -140,10 +140,19 @@ main{
   font-family: 'Open Sans';
   font-size: 32px;
   font-weight: bold;
-  margin-right: 75px; 
-  height: 300px;
+  color: white;
+  margin-right: 70px; 
+  height: 290px;
   margin-top: 20px;
   width: 590px;
+  padding-left: 20px;
+  background-image: url('../imagens/sabrina1.jpg');
+  background-size: 600px; /*tamanhos horizontal e vertical da imagem*/
+}
+#noticia2 p{
+  padding-top: 130px;
+  line-height: 35.2px;
+  letter-spacing: -1.3px;
 }
 
 footer{   /*----------inicio do rodape----------*/
