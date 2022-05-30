@@ -147,7 +147,7 @@ main{
   width: 590px;
   padding-left: 20px;
   background-image: url('../imagens/sabrina1.jpg');
-  background-size: 600px; /*tamanhos horizontal e vertical da imagem*/
+  background-size: 100px 600px; /*tamanhos horizontal e vertical da imagem - PAREI AQUI*/
 }
 #noticia2 p{
   padding-top: 130px;
