@@ -112,6 +112,7 @@ main{
   margin-left: 70px;
   line-height: 44px; /*altura entre uma linha e outra*/
   letter-spacing: -1.8px; /*espaco entre as letras*/
+  border-radius: 4px;
 }
 #noticia1 p{
   font-size: 40px;
@@ -146,13 +147,19 @@ main{
   margin-top: 20px;
   width: 590px;
   padding-left: 20px;
-  background-image: url('../imagens/sabrina1.jpg');
-  background-size: 100px 600px; /*tamanhos horizontal e vertical da imagem - PAREI AQUI*/
+  background-image: url('../imagens/foto');
+  background-size: 620px 550px; /*tamanhos horizontal e vertical da imagem - PAREI AQUI*/
+  border-radius: 4px;
 }
+#noticia2 a{
+  text-decoration: none;
+}
+
 #noticia2 p{
   padding-top: 130px;
   line-height: 35.2px;
   letter-spacing: -1.3px;
+  color: white;
 }
 
 footer{   /*----------inicio do rodape----------*/
