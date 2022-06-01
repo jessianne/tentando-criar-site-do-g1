@@ -179,12 +179,29 @@ main .lista{
     margin-left: 375px;
     font-family: 'Open Sans';
     font-size: 20px;
-    color: #A6130A;
+    color: #C5351A;
     font-weight: bold;
     line-height: 30px;
 }
 main .lista li{
     padding-bottom: 17px;
+}
+
+main strong{
+    color: #C5351A;
+}
+
+main .destaque{
+    background-color: #F3D1CE;
+    font-weight: bold;
+    font-style: italic;
+}
+
+main #elize2{
+    margin-left: 350px;
+}
+main #elize2 figcaption{
+    padding-right: 119px;
 }
 
 footer{   /*----------inicio do rodape----------*/

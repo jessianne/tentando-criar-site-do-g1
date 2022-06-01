@@ -148,7 +148,7 @@ main{
   width: 590px;
   padding-left: 20px;
   background-image: url('../imagens/foto');
-  background-size: 620px 550px; /*tamanhos horizontal e vertical da imagem - PAREI AQUI*/
+  background-size: 620px 550px; /*tamanhos horizontal e vertical da imagem*/
   border-radius: 4px;
 }
 #noticia2 a{
