@@ -104,6 +104,16 @@ main h1{
     margin-bottom: 25px;
 }
 
+main #sub-titulo{
+    font-family: 'Open Sans';
+    font-size: 20px;   
+    color: #333333;
+    margin-left: 227px;
+    margin-right: 200px;
+    padding-bottom: 25px;
+    font-weight: normal;
+}
+
 main p{
     font-family: 'Open Sans';
     font-size: 20px;
@@ -182,6 +192,7 @@ main .lista{
     color: #C5351A;
     font-weight: bold;
     line-height: 30px;
+    margin-right: 340px;
 }
 main .lista li{
     padding-bottom: 17px;
@@ -193,6 +204,7 @@ main strong{
 
 main span{
     font-weight: bold;
+    color: #3f3838;
 }
 
 main .destaque{
@@ -201,12 +213,52 @@ main .destaque{
     font-style: italic;
 }
 
+main .destaque2{
+    background-color: #F3D1CE;
+    font-weight: normal;
+}
+
 main #elize2{
     margin-left: 350px;
 }
 main #elize2 figcaption{
     padding-right: 119px;
 }
+
+main h2{
+    font-size: 32px;
+    margin-left: 350px;
+    font-weight: bold;
+    color: black;
+    padding-top: 20px
+}
+
+main #elize3{
+    margin-left: 380px;
+}
+main #elize3 figcaption{
+    margin-left: 380px;
+}
+
+main #linha2{
+    width:370px;
+    margin-left: 190px;
+}
+
+main .pub{
+    font-family: 'Open Sans';
+    color: #555555;
+    font-size: 10px;
+    letter-spacing: 1px;
+    margin-left: 42.5%;
+    margin-top: -7px;
+}
+main #linha3{
+    width:370px;
+    margin-left: 785px;
+    margin-top: -5px;
+}
+
 
 footer{   /*----------inicio do rodape----------*/
     display: block;
