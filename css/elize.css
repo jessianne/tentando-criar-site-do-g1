@@ -191,6 +191,10 @@ main strong{
     color: #C5351A;
 }
 
+main span{
+    font-weight: bold;
+}
+
 main .destaque{
     background-color: #F3D1CE;
     font-weight: bold;

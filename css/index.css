@@ -103,7 +103,7 @@ main{
 #noticia1{
   display: block;
   float: left;
-  border: 1px solid black;
+  border: 1px solid #EEEEEE;
   font-family: 'Open Sans';
   width: 585px;
   padding-top: 200px;  
@@ -137,7 +137,7 @@ main{
 #noticia2{
   display: block;
   float: right;
-  border: 1px solid black;
+  border: 1px solid #EEEEEE;
   font-family: 'Open Sans';
   font-size: 32px;
   font-weight: bold;
