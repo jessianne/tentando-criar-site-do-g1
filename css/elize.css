@@ -194,8 +194,13 @@ main .lista{
     line-height: 30px;
     margin-right: 340px;
 }
+
+main ::marker{
+    color: black;
+}
 main .lista li{
     padding-bottom: 17px;
+    padding-left: 15px;
 }
 
 main strong{
@@ -230,7 +235,7 @@ main h2{
     margin-left: 350px;
     font-weight: bold;
     color: black;
-    padding-top: 20px
+    margin-top: 50px
 }
 
 main #elize3{
@@ -256,9 +261,19 @@ main .pub{
 main #linha3{
     width:370px;
     margin-left: 785px;
-    margin-top: -5px;
+    margin-top: -7px;
+    margin-bottom: 25px;
 }
 
+main #campanha2{
+    margin-left: 190px;
+    padding-bottom: 10px;
+}
+
+main #linha4{
+    width: 72%;
+    margin-left: 190px;
+}
 
 footer{   /*----------inicio do rodape----------*/
     display: block;
