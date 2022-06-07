@@ -100,7 +100,7 @@ main{
   padding-left: 9px;
 }
 
-#noticia1{
+main #noticia1{
   display: block;
   float: left;
   border: 1px solid #EEEEEE;
@@ -114,17 +114,17 @@ main{
   letter-spacing: -1.8px; /*espaco entre as letras*/
   border-radius: 4px;
 }
-#noticia1 p{
+main #noticia1 p{
   font-size: 40px;
   color: #C4170C;
   font-weight: bold;
   padding-left: 25px;
 }
-#noticia1 a{
+main #noticia1 a{
   text-decoration: none;
 }
 
-#olaf{
+main #olaf{
   font-size: 16px;
   line-height: 24px;
   letter-spacing: -0.3px;
@@ -134,7 +134,7 @@ main{
   padding-left: 25px;
 }
 
-#noticia2{
+main #noticia2{
   display: block;
   float: right;
   border: 1px solid #EEEEEE;
@@ -151,15 +151,28 @@ main{
   background-size: 620px 550px; /*tamanhos horizontal e vertical da imagem*/
   border-radius: 4px;
 }
-#noticia2 a{
+main #noticia2 a{
   text-decoration: none;
 }
 
-#noticia2 p{
+main #noticia2 p{
   padding-top: 130px;
   line-height: 35.2px;
   letter-spacing: -1.3px;
   color: white;
+}
+
+main #noticia3 {
+  display: block;
+  float: right;
+  border: 1px solid #EEEEEE;
+  font-family: 'Open Sans';
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  height: 290px;
+  width: 590px;
+  margin-right: 70px; 
 }
 
 footer{   /*----------inicio do rodape----------*/
