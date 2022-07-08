@@ -275,6 +275,12 @@ main #linha4{
     margin-left: 190px;
 }
 
+main #justica{
+    background-image: url('../imagens/elize2.jpg');
+    background-size: 620px 550px; /*tamanhos horizontal e vertical da imagem*/
+    border-radius: 4px;
+}
+
 footer{   /*----------inicio do rodape----------*/
     display: block;
     background-color: #3C49B2;
