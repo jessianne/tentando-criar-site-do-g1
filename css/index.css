@@ -107,7 +107,7 @@ main #noticia1{
   font-family: 'Open Sans';
   width: 585px;
   padding-top: 200px;  
-  height: 380px;
+  height: 390px;
   margin-top: 20px;
   margin-left: 70px;
   line-height: 44px; /*altura entre uma linha e outra*/
@@ -171,9 +171,12 @@ main #noticia3 {
   font-weight: bold;
   color: white;
   font-size: 32px;
-  height: 290px;
-  width: 590px;
+  height: 280px;
+  width: 610px;
   margin-right: 70px; 
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-left:10px;
 }
 main #justica{
   font-size: 16px;
