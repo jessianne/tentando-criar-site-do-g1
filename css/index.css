@@ -141,9 +141,8 @@ main #noticia2{
   font-family: 'Open Sans';
   font-size: 32px;
   font-weight: bold;
-  color: white;
   margin-right: 70px; 
-  height: 290px;
+  height: 287px;
   margin-top: 20px;
   width: 590px;
   padding-left: 20px;
@@ -154,7 +153,6 @@ main #noticia2{
 main #noticia2 a{
   text-decoration: none;
 }
-
 main #noticia2 p{
   padding-top: 130px;
   line-height: 35.2px;
@@ -166,17 +164,20 @@ main #noticia3 {
   display: block;
   float: right;
   border: 1px solid #EEEEEE;
-  border-radius: 4px;
   font-family: 'Open Sans';
-  font-weight: bold;
-  color: white;
   font-size: 32px;
-  height: 280px;
-  width: 610px;
+  font-weight: bold;
   margin-right: 70px; 
-  margin-top: 20px;
-  padding-top: 30px;
-  padding-left:10px;
+  height: 286px;
+  margin-top: 15px;
+  width: 590px;
+  padding-left: 20px;
+  border-radius: 4px;
+  background-image: url('../imagens/elize2.jpg');
+}
+main p{
+  padding-top: 20px;
+  color: white;
 }
 main #justica{
   font-size: 16px;
@@ -188,8 +189,15 @@ main #justica{
 }
 
 main #noticia3 a{
-  text-decoration: none;
-  
+  text-decoration: none; 
+}
+
+main #maquininha{
+  margin-left: 170px;
+}
+main #maquininha img{
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 footer{   /*----------inicio do rodape----------*/
