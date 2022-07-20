@@ -175,8 +175,8 @@ main #noticia3 {
   border-radius: 4px;
   background-image: url('../imagens/elize2.jpg');
 }
-main p{
-  padding-top: 20px;
+main #noticia3 p{
+  padding-top: 40px;
   color: white;
 }
 main #justica{
@@ -198,6 +198,15 @@ main #maquininha{
 main #maquininha img{
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+main aside p{
+  font-family: 'Open Sans';
+  font-size: 24px;
+  font-weight: bold;
+  color: #A6130A;
+  font-weight: -0.8px;
+  line-height: 26.4px;
 }
 
 footer{   /*----------inicio do rodape----------*/
