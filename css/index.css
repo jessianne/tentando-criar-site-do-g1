@@ -209,6 +209,11 @@ main aside p{
   line-height: 26.4px;
 }
 
+main #destaques{
+  width: 800px;
+  margin-left: 70px;
+}
+
 footer{   /*----------inicio do rodape----------*/
   display: block;
   background-color: #3C49B2;
