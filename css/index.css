@@ -209,9 +209,23 @@ main aside p{
   line-height: 26.4px;
 }
 
+main #subnoticia{
+  float: right;
+}
+
 main #destaques{
   width: 800px;
   margin-left: 70px;
+}
+
+main #eleiçoes{
+  
+}
+main #coibir{
+
+}
+main #encontro{
+
 }
 
 footer{   /*----------inicio do rodape----------*/
