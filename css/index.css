@@ -209,13 +209,14 @@ main aside p{
   line-height: 26.4px;
 }
 
-main #subnoticia{
-  float: right;
-}
-
 main #destaques{
+  border: 1px solid red;
   width: 800px;
   margin-left: 70px;
+}
+
+main #subnoticia{
+  
 }
 
 main #eleiçoes{
