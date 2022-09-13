@@ -214,8 +214,28 @@ main #destaques{
   width: 800px;
   margin-left: 70px;
 }
+ 
+main #eleiçoes{
+  font-family: 'Open Sans';
+  font-size: 16px;
+  color: #333333;
+  float: right;
+  margin-right: 370px;
+}
 
-main #subnoticia{
+main #coibir{
+  font-family: 'Open Sans';
+  font-size: 24px;
+  font-weight: bold;
+  color: #A6130A;
+  margin-left: 30px;
+  text-align: right;
+}
+
+main #encontro{
+  font-family: 'Open Sans';
+  font-size: 16px;
+  color: #555555;
   
 }
 
