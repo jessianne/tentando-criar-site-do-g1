@@ -230,15 +230,15 @@ main #coibir{
   color: #A6130A;
   margin-left: 30px;
   position: relative; /*especifica a distância que a borda inferior do elemento é movida acima de sua posição normal*/
-  bottom: 180px;
-  margin-left: 15.5em;
+  margin-left: 370px;
 }
 
 main #encontro{
   font-family: 'Open Sans';
   font-size: 16px;
   color: #555555;
-  top: 0;
+  position: relative;
+  margin-left: 375px;
 }
 
 
