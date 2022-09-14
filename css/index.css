@@ -229,14 +229,16 @@ main #coibir{
   font-weight: bold;
   color: #A6130A;
   margin-left: 30px;
-  text-align: right;
+  position: relative; /*especifica a distância que a borda inferior do elemento é movida acima de sua posição normal*/
+  bottom: 180px;
+  margin-left: 15.5em;
 }
 
 main #encontro{
   font-family: 'Open Sans';
   font-size: 16px;
   color: #555555;
-  
+  top: 0;
 }
 
 
