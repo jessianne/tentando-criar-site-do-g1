@@ -211,6 +211,7 @@ main aside p{
 
 main #destaques{
   border: 1px solid red;
+  height: 230px;
   width: 800px;
   margin-left: 70px;
 }
@@ -229,8 +230,12 @@ main #coibir{
   font-weight: bold;
   color: #A6130A;
   margin-left: 30px;
-  position: relative; /*especifica a distância que a borda inferior do elemento é movida acima de sua posição normal*/
-  margin-left: 370px;
+  position: absolute;
+  top: 57em;
+  margin-left: 370px;  
+  width: 400px;
+  line-height: 26.4px; /*altura entre uma linha e outra*/
+  letter-spacing: -0.8px; /*espaco entre as letras*/
 }
 
 main #encontro{
@@ -239,8 +244,16 @@ main #encontro{
   color: #555555;
   position: relative;
   margin-left: 375px;
+  position: relative;
+  
 }
 
+main #separar{
+  width: 800px;
+  margin-left: 70px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
 footer{   /*----------inicio do rodape----------*/
   display: block;
