@@ -209,7 +209,7 @@ main aside p{
   line-height: 26.4px;
 }
 
-main #destaques{
+main #destaques{    /*------- div de destaques -------*/
   border: 1px solid red;
   height: 230px;
   width: 800px;
@@ -230,10 +230,9 @@ main #coibir{
   font-weight: bold;
   color: #A6130A;
   margin-left: 30px;
-  position: absolute;
-  top: 57em;
+  position: relative;
+  top: 0;
   margin-left: 370px;  
-  width: 400px;
   line-height: 26.4px; /*altura entre uma linha e outra*/
   letter-spacing: -0.8px; /*espaco entre as letras*/
 }
@@ -244,8 +243,7 @@ main #encontro{
   color: #555555;
   position: relative;
   margin-left: 375px;
-  position: relative;
-  
+  top: 0px;
 }
 
 main #separar{
@@ -253,7 +251,7 @@ main #separar{
   margin-left: 70px;
   margin-top: 30px;
   margin-bottom: 30px;
-}
+}             /*------- div de destaques -------*/
 
 footer{   /*----------inicio do rodape----------*/
   display: block;
