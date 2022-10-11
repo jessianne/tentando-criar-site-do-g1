@@ -86,3 +86,68 @@
   background-color:#C4170C;
   color: white; 
 }   /*-----------------fim da formatacao do menu principal-------------------*/
+
+main{
+    margin: auto;
+    padding-top: 40px;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: left;
+  }
+
+  #anuncio{
+    margin-left: 179px;
+    padding-left: 9px;
+  }
+
+  main h1{  /*---- TITULO ----*/
+    font-family: 'Open Sans';
+    font-size: 56px;
+    font-weight: bold;
+    letter-spacing: -3.1px;
+    line-height: 61.6px;
+    text-align: left;
+    color: #111111;
+    margin-left: 230px;
+    margin-right: 200px;
+    margin-bottom: 25px;
+}
+
+main #sub-titulo{
+  font-family: 'Open Sans';
+  font-size: 20px;   
+  color: #333333;
+  margin-left: 227px;
+  margin-right: 200px;
+  padding-bottom: 25px;
+  font-weight: normal;
+}
+
+main #porg1{
+  font-family: 'Open Sans';
+  color: #555555;
+  margin-left: 230px;
+  letter-spacing: -0.3px;
+}
+
+aside{          /*----------------------icones---------------*/
+  margin-left: 685px;
+  padding-left: 240px;
+  margin-top: -40px;
+  margin-bottom: 35px;
+}
+
+aside > ul{ 
+  list-style: none;
+}
+aside ul > li{
+  display: inline-block;      /*deixa icones das redes sociais um ao lado um do outro*/
+  padding: 10px;              /*distancia entre cada icone*/
+}               /*-----------------fim dos icones------------*/
+
+#linha{
+  width: 66%;
+  margin-bottom: 55px;
+  margin-left: auto;
+  margin-right: auto;
+}
